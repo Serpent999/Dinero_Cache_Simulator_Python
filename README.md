@@ -1,2 +1,2 @@
 # Dinero_Cache_Simulator_Python
-This code simulates a cache using Dinero files or similar trace files in Python 
+This code simulates a cache using Dinero files or similar trace files in Python.The project simulates a cache using software. It is a dynamic cache based on the Dinero cache simulator input files. It can change and dynamically implement itself as a set-associative, fully-associative, or direct mapped cache. In addition it supports different write allocation and replacement policies. The supported replacement policies are LRU (Least Recently Used) and FIFO (First In First Out). The complete code is implemented in Python.
